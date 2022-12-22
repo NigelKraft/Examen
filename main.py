@@ -17,9 +17,9 @@ def triatlon(geslacht,fietsen,lopen,zwemmen):
         if geslacht == "vrouw" and fietsen >=15 and lopen >=8 and zwemmen >=3:
             print("u bent geslaagd")
         elif geslacht == "man" and fietsen >=25 and lopen >=10 and zwemmen >=2:
-         print("U bent geslaad")
+         print("U bent geslaagd")
         elif geslacht == "man" and fietsen >=40 and lopen >=8 and zwemmen >=2:
-            print("U bent geslaad")
+            print("U bent geslaagd")
         else:
             print("U bent niet geslaagd")
 
